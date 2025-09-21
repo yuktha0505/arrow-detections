@@ -1,0 +1,8 @@
+nc: 2
+names: ['left_arrow','right_arrow']
+
+
+
+train: C:/Users/yukth/OneDrive/Documents/Desktop/yolo11/dataset/images/train
+val: C:/Users/yukth/OneDrive/Documents/Desktop/yolo11/dataset/images/val
+
